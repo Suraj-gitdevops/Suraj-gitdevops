@@ -12,7 +12,7 @@
   </a>
  
   <a href="www.linkedin.com/in/surajkumar-thombare-devsecops-a9004b233">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="" />
   </a>
 </p>
 
