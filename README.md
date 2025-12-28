@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Surajkumar Thombare</h1>
 
 <div align="center">
-  <img src="https://github.com/Suraj-gitdevops/Suraj-gitdevops/blob/main/Banner.png" alt="Devsecops-PNG">
+  <img src="https://github.com/Suraj-gitdevops/Suraj-gitdevops/blob/main/Devsecops-PNG" alt="Devsecops-PNG">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector 
